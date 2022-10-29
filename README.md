@@ -7,7 +7,7 @@
 
 This is a simple tool that allows you to create and manage color schemes. You are able to create or generate color lists, as well as convert between color codes (Hex, RGB, HSV, HSL) seamlessly. As the only part that requires an online connection is color generation, this tool can be useful in providing easy color conversion offline.
 
-This tool was initially created a few months back, around late July 2022. I am uploading it here now (in October) to allow the source code of this app to be freely visible.
+This tool was initially created a few months back, around late July 2022. I am uploading it here now (in October) to allow the source code of this app to be freely visible, specifically as this will be a part of the [Congressional App Challenge](https://www.congressionalappchallenge.us).
 
 Currently, no actual builds are planned. If desired, I may create build scripts to package this app as an AppImage or Flatpak later. Any non-Linux build will come later, as I currently do not know how to package PyQt apps for Windows/MacOS.
 
