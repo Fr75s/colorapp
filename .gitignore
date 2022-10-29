@@ -1,0 +1,6 @@
+app/
+colorapp/__pycache__/
+colorapp/PreviewsBuiltin/
+colorapp/PreviewsNB/
+colorapp/Preview.qmldir
+colorapp/colorapp_cacsubinfo.txt
